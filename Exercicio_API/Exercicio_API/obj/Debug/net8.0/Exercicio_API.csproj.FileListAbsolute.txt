@@ -1,0 +1,17 @@
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\Exercicio_API.csproj.AssemblyReference.cache
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\Exercicio_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\Exercicio_API.AssemblyInfoInputs.cache
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\Exercicio_API.AssemblyInfo.cs
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\Exercicio_API.csproj.CoreCompileInputs.cache
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\bin\Debug\net8.0\Exercicio_API.exe
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\bin\Debug\net8.0\Exercicio_API.deps.json
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\bin\Debug\net8.0\Exercicio_API.runtimeconfig.json
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\bin\Debug\net8.0\Exercicio_API.dll
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\bin\Debug\net8.0\Exercicio_API.pdb
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\Exercici.33ADA9C0.Up2Date
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\Exercicio_API.dll
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\refint\Exercicio_API.dll
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\Exercicio_API.pdb
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\Exercicio_API.genruntimeconfig.cache
+C:\Users\majsilva\source\repos\Exercicio_API\Exercicio_API\obj\Debug\net8.0\ref\Exercicio_API.dll
